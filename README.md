@@ -14,10 +14,6 @@ Responsive design.
 *   Responsive design.
 *   Beautiful curves.
 
-## Demo
-
-You may visit my website deployed [here](https://devve.space).
-
 ## Development
 
 1.  Install SASS from [here](https://sass-lang.com/install).
